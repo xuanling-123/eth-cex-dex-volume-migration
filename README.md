@@ -1,8 +1,7 @@
 # eth-cex-dex-volume-migration
 Daily ETH spot volume comparison between Binance (CEX) and Uniswap V3 (DEX) to study market-structure shifts across volatility regimes.
 
-ETH Spot Volume Migration 
-CEX (Binance) vs DEX (Uniswap V3)
+ETH Spot Volume Migration: CEX (Binance) vs DEX (Uniswap V3)
 
 ## 📖 Overview
 
