@@ -49,7 +49,7 @@ Step 1 — Compute Daily Volumes
 Step 2 — Compute DEX Share
 
 <img width="513" height="72" alt="image" src="https://github.com/user-attachments/assets/ec971bad-54e2-40ed-9707-7db4c8a3b3a8" />
-​
+
 Step 3 — Define High Volatility Regime
 
 High-volatility days are defined as the top 20% of absolute ETH daily returns.
